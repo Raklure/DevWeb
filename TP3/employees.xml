@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE employees SYSTEM 'employees.dtd'>
+<employees>
+	<employee>
+		<id>1</id>
+		<name>Coustance Nathan</name>
+		<salary>20000</salary>
+		<age>20</age>
+	</employee>
+	<employee>
+		<id>2</id>
+		<name>Romane Siret</name>
+		<salary>20000</salary>
+		<age>20</age>
+	</employee>
+	<employee>
+		<id>3</id>
+		<name>Baptiste Namur</name>
+		<salary>30000</salary>
+		<age>20</age>
+	</employee>
+</employees>
